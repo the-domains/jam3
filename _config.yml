@@ -1,0 +1,14 @@
+layout_spectrum: 0.7947056510020047
+typography_spectrum: 0.5190269486047328
+color:
+  brandStrength: 0.01313558709807694
+  lightness: 0.7425232122186571
+  saturation: 0.696779997786507
+  rhythmicContrast: 0.0997802943456918
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: jam3
